@@ -1,0 +1,1 @@
+{"name":"Local: pair_sum_k","url":"c:\\Users\\nikku\\Desktop\\practice\\pair_sum_k.cpp","tests":[{"id":1633177047533,"input":"5\n7\n1 2 3 4 5","output":"2 5"},{"id":1633177086078,"input":"7\n-8\n-1 2 -3 4 5 2 -5","output":"-3 -5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nikku\\Desktop\\practice\\pair_sum_k.cpp","group":"local","local":true}

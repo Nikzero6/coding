@@ -1,0 +1,1 @@
+{"name":"Local: sum_odd_array","url":"c:\\Users\\nikku\\Desktop\\practice\\sum_odd_array.cpp","tests":[{"id":1633178109970,"input":"5\n1 2 3 4 5","output":"9"},{"id":1633178135037,"input":"7\n2 -3 4 5 7 -9 5","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nikku\\Desktop\\practice\\sum_odd_array.cpp","group":"local","local":true}

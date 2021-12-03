@@ -1,0 +1,1 @@
+{"name":"Local: first_repeating_elem","url":"c:\\Users\\nikku\\Desktop\\company_qs\\first_repeating_elem.cpp","tests":[{"id":1632998260870,"input":"7\n1 4 3 5 3 5 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nikku\\Desktop\\company_qs\\first_repeating_elem.cpp","group":"local","local":true}

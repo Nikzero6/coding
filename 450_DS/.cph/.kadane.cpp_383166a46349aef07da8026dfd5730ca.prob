@@ -1,0 +1,1 @@
+{"name":"Local: kadane","url":"/media/nikzero/OS/Users/nikku/Desktop/coding/450_DS/kadane.cpp","tests":[{"id":1638024306779,"input":"5\n1 2 3 -2 5","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/nikzero/OS/Users/nikku/Desktop/coding/450_DS/kadane.cpp","group":"local","local":true}

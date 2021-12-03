@@ -1,0 +1,1 @@
+{"name":"Local: max_sum_subarray","url":"c:\\Users\\nikku\\Desktop\\practice\\max_sum_subarray.cpp","tests":[{"id":1633103433885,"input":"7\n-1 2 3 -2 4 -8 5","output":"1 4\n7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nikku\\Desktop\\practice\\max_sum_subarray.cpp","group":"local","local":true}

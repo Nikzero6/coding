@@ -1,0 +1,1 @@
+{"name":"Local: matrixSearch","url":"c:\\Users\\nikku\\Desktop\\C++ codes\\2D arrays\\matrixSearch.cpp","tests":[{"id":1627451155366,"input":"3 3 5\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\nikku\\Desktop\\C++ codes\\2D arrays\\matrixSearch.cpp","group":"local","local":true}
