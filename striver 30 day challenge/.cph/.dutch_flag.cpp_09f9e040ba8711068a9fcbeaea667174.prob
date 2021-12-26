@@ -1,0 +1,1 @@
+{"name":"Local: dutch_flag","url":"/media/nikzero/OS/Users/nikku/Desktop/coding/striver 30 day challenge/dutch_flag.cpp","tests":[{"id":1640462068874,"input":"6\n2 0 2 1 1 0","output":"0 0 1 1 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/nikzero/OS/Users/nikku/Desktop/coding/striver 30 day challenge/dutch_flag.cpp","group":"local","local":true}
