@@ -85,17 +85,7 @@ void merge_last_swapping(int arr1[], int arr2[], int n, int m)
     }
 }
 
-int nextGap(int gap)
-{
-    if (gap <= 1)
-    {
-        return 0;
-    }
-    else
-    {
-        return (gap / 2) + (gap % 2);
-    }
-}
+
 
 void merge_gap(int arr1[], int arr2[], int n, int m)
 {
