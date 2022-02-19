@@ -29,18 +29,18 @@ void merge_my_method(int arr1[], int arr2[], int n, int m)
     }
 
     while (i < stop)
-    { //3<3                  //{0, 1, 2, 3}     i=3, j=2, k=1
+    { // 3<3                  //{0, 1, 2, 3}     i=3, j=2, k=1
         //{4, 5, 7, 8, 9}
         int k = 0;
 
         while (k < 1 && i < n)
         {
             if (arr1[i] > arr2[k])
-            {                           //3>2
-                int last = arr1[n - 1]; //5
+            {                           // 3>2
+                int last = arr1[n - 1]; // 5
                 rightShift(arr1, i, n);
-                arr1[i] = arr2[k]; //2
-                arr2[k] = last;    //5
+                arr1[i] = arr2[k]; // 2
+                arr2[k] = last;    // 5
                 k++;
             }
             i++;
@@ -49,7 +49,7 @@ void merge_my_method(int arr1[], int arr2[], int n, int m)
         j = 0;
 
         while (arr2[j] > arr2[j + 1])
-        { //2>6
+        { // 2>6
             swap(arr2, j, j + 1);
             j++;
         }
@@ -84,8 +84,6 @@ void merge_last_swapping(int arr1[], int arr2[], int n, int m)
         }
     }
 }
-
-
 
 void merge_gap(int arr1[], int arr2[], int n, int m)
 {

@@ -1,0 +1,1 @@
+{"name":"Local: moveNegPos","url":"/media/nikzero/OS/Users/nikku/Desktop/coding/practice/moveNegPos.cpp","tests":[{"id":1642534899225,"input":"5\n8 -2 1 -6 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/media/nikzero/OS/Users/nikku/Desktop/coding/practice/moveNegPos.cpp","group":"local","local":true}
